@@ -1,14 +1,1 @@
-
-pip install pandas streamlit graphviz openpyxl
-
-
-pip install pandas streamlit graphviz openpyxl
-
-streamlit run app.py
-
-pip install streamlit pandas graphviz
-
-
-pyinstaller --name "StreamlitApp" --onefile --windowed --collect-all streamlit --clean run_app.py
-
-pip install streamlit pandas openpyxl
+graphviz
